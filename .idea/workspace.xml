@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f3db320-6fbc-491a-a850-1eddbecb6221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/food_order_management.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurant_menu/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurant_menu/templates/menu_item_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurant_menu/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="2f3db320-6fbc-491a-a850-1eddbecb6221" name="Changes" comment="-m" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,16 +30,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.qr.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.qr.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/acer/Desktop/pycharmgithuprepisotory/food_order_management/restaurant_menu/templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Desktop\pycharmgithuprepisotory\food_order_management\restaurant_menu\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\acer\Desktop\pycharmgithuprepisotory\food_order_management\restaurant_menu" />
     </key>
@@ -100,6 +93,27 @@
       <option name="presentableId" value="Default" />
       <updated>1727593033504</updated>
     </task>
+    <task id="LOCAL-00001" summary="-m">
+      <option name="closed" value="true" />
+      <created>1727637561693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727637561693</updated>
+    </task>
+    <task id="LOCAL-00002" summary="-m">
+      <option name="closed" value="true" />
+      <created>1727637567886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727637567886</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-m" />
+    <option name="LAST_COMMIT_MESSAGE" value="-m" />
   </component>
 </project>
